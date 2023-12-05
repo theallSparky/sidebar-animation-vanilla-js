@@ -55,4 +55,8 @@ ul li a {
     padding-top: 35px;
     text-align: center;
     font-style: italic;
+    background-color: #ffa31a;
+    max-width: 55%;
+    margin: 50px auto 0;
+    text-align: center;
 }
