@@ -50,3 +50,9 @@ ul li a {
     color: #fff;
     cursor: pointer;
 }
+
+#disclaimer {
+    padding-top: 35px;
+    text-align: center;
+    font-style: italic;
+}
